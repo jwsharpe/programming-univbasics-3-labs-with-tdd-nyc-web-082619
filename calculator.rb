@@ -1,3 +1,3 @@
 # Add your variables here
-def calculate(x,y,operator)
+first_number
   
